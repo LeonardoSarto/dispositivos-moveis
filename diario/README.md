@@ -1,2 +1,2 @@
-# diario-dispositivos-moveis
-Diário para realizar durante as aulas de dispositivos móveis
+# 📓Diário da disciplina📓
+Aqui ficarão as anotações realizadas a cada aula frequentada de Desenvolvimento para Dispositivos Móveis
