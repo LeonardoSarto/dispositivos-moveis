@@ -22,7 +22,7 @@
 
 # Atendimento:
 
-* Segunda 13h a 18h
+* 💬Segunda 13h a 18h
 
 ## Diário de Aula 
-💬https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit?usp=sharing
+📖https://docs.google.com/spreadsheets/d/15S13zfmqAGGMFBtSC4jBQjm9qa6l00PePm_KsR_7hdc/edit?usp=sharing
