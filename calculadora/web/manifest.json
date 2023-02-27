@@ -1,6 +1,6 @@
 {
-    "name": "aula_teste",
-    "short_name": "aula_teste",
+    "name": "calculadora",
+    "short_name": "calculadora",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

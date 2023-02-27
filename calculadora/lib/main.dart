@@ -1,4 +1,4 @@
-import 'package:aula_teste/pages/home/home.dart';
+import 'package:calculadora/pages/home/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
